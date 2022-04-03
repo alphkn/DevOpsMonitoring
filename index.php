@@ -127,7 +127,7 @@
                     </tbody>
                 </table>
                 
-                <h2 class="my-4">DEV</h2>-->
+                <h2 class="my-4">DEV</h2>
                 <table class="table table-bordered">
                     <thead>
                         <tr>
